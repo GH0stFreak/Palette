@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://gh0stfreak.github.io/Palette/" color="white" target="_blank">
+    <a href="https://karanpunjapatel.github.io/Palette/" color="white" target="_blank">
       Live
     </a>
   
